@@ -1,0 +1,33 @@
+.header{
+    border:solid;
+    display: flex;
+    margin:50px;
+    font-style:italic;
+    font-variant: small-caps;
+    
+    
+}
+.line{
+    background-color: rgba(255, 255, 255, 0.575);
+    border:solid;
+    display: flex;
+    margin:50px;
+    font-style:italic;
+    font-variant: small-caps;
+}
+html{
+    background-color: #0da86d;
+}
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.image2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    border:slateblue;
+   
+}
+
